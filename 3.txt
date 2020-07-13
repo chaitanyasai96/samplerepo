@@ -1,0 +1,1 @@
+Thi is third text file that is to be commited via branch 1
